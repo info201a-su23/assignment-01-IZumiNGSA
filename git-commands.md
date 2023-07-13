@@ -24,7 +24,7 @@ cd assignment-01-IZumiNGSA
 git add .
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
-git commit -m "show absolute path of image and update the data"
+git commit -m "show absolute path of image and update the data in the file"
 
 # (9) Finally, push your changes to GitHub [1 point]
 git push
