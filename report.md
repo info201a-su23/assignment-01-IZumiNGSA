@@ -29,7 +29,6 @@ The data visualization specifically shows the wage gap between men and women in 
 5.  **How, if at all, does the data visualization represent power or systems?**\
     The data visualization represents power systems by showcasing how societal and institutional norms around gender roles can lead to wage disparities.
 
-For more information about wage gaps, check out this [website]
-(https://www.aauw.org/resources/research/simple-truth/)
+For more information about wage gaps, check out this [website] (<https://www.aauw.org/resources/research/simple-truth/>)
 
 :smile:
