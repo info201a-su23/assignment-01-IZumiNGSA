@@ -1,4 +1,4 @@
-# Wage Gap: An In-Depth Look
+# Wage Gap
 
 ## Chufeng Wang
 
@@ -6,7 +6,7 @@
 
 ## Data Viz Summary
 
-![Wage Gap Visualization](wage-gap.png)
+![Wage Gap Visualization](https://github.com/info201a-su23/assignment-01-IZumiNGSA/blob/main/wagegap.png)
 
 The data visualization specifically shows the percentage of male earnings women are paid in different age. It communicates that in all cases, men's wages are higher than women's, with the gap increasing in younger group.
 
