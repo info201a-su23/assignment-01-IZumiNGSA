@@ -8,7 +8,7 @@
 
 ![Wage Gap Visualization](wage-gap.png)
 
-The data visualization specifically shows the wage gap between men and women in various industries. It communicates that in all cases, men's wages are higher than women's, with the gap increasing in more male-dominated industries.
+The data visualization specifically shows the percentage of male earnings women are paid in different age. It communicates that in all cases, men's wages are higher than women's, with the gap increasing in younger group.
 
 > "The wage gap visualization in the Data Feminism book highlights the gender disparities in earnings across different sectors." - Data Feminism
 
@@ -18,7 +18,7 @@ The data visualization specifically shows the wage gap between men and women in 
     The visualization was produced by the American Association of University Women (AAUW).
 
 2.  **When was it produced?**\
-    It was produced in 2019.
+    It was produced in 2018.
 
 3.  **Who is the audience for the visualization?**\
     The audience for the visualization is the general public, particularly those interested in wage disparity and gender issues.
