@@ -6,7 +6,7 @@
 
 ## Data Viz Summary
 
-![Wage Gap Visualization](wage-gap-chart.png)
+![Wage Gap Visualization](wage-gap.png)
 
 The data visualization specifically shows the wage gap between men and women in various industries. It communicates that in all cases, men's wages are higher than women's, with the gap increasing in more male-dominated industries.
 
@@ -29,6 +29,7 @@ The data visualization specifically shows the wage gap between men and women in 
 5.  **How, if at all, does the data visualization represent power or systems?**\
     The data visualization represents power systems by showcasing how societal and institutional norms around gender roles can lead to wage disparities.
 
-For more information about wage gaps, check out this [website]()
+For more information about wage gaps, check out this [website]
+(https://www.aauw.org/resources/research/simple-truth/)
 
 :smile:
